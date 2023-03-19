@@ -1,0 +1,22 @@
+div{
+    width: 200px;
+    height: 280px;
+    border: 3px solid black;
+    display: inline-block;
+    background-color: #8282e3;
+    text-align: center;
+    margin-right: 15px;
+
+}
+
+h2{
+    color: white;
+}
+
+#list2:hover{
+    border-radius: 20px;
+    transform: rotate(360deg);
+  transition: 2s;
+background-color: blue;
+}
+
